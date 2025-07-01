@@ -1,7 +1,7 @@
 ### Hi there 👋 
 
 My name is **Fadhillah Ramadhan**.\
-An Informatics Engineering graduate with big interest on software development.
+I'm an Informatics Engineering graduate with a strong interest in software development
 
 <p align="left">
 <a href="https://github.com/fadhillahrmdhn">
