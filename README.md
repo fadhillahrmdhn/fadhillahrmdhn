@@ -24,9 +24,16 @@ I'm an Informatics Engineering graduate with a strong interest in software devel
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
 <img alt="Bun" src="https://img.shields.io/badge/-Bun-A0522D?style=flat-square&logo=bun&logoColor=white" />
 <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-4E4E4E?style=flat-square&logo=express&logoColor=white" />
-
-
 </p>
+
+### Github Statistic
+<p align="left">
+  <a href="https://github.com/fadhillahrmdhn">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fadhillahrmdhn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fadhillahrmdhn&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
 
 <h3>Where to find me</h3>
 <p>
