@@ -46,7 +46,7 @@ I'm an Informatics Engineering graduate with a strong interest in software devel
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   
-  <a href="[https://www.instagram.com/fadhillahrmdhn/](https://www.instagram.com/fadhillahrmdhn/)" target="_blank">
+  <a href="https://www.instagram.com/fadhillahrmdhn/" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   
