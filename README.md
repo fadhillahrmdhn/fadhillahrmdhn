@@ -27,7 +27,7 @@ I'm an Informatics Engineering graduate with a strong interest in software devel
 <img alt="Bun" src="https://img.shields.io/badge/-Bun-A0522D?style=flat-square&logo=bun&logoColor=white" />
 <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-4E4E4E?style=flat-square&logo=express&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-
+<img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </p>
 
 ### Github Statistic
