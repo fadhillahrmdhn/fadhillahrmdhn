@@ -38,6 +38,10 @@ I'm an Informatics Engineering graduate with a strong interest in software devel
   </a>
 </p>
 
+<!--   GitHub stats graph -->
+### GitHub Activity Graph:
+[![Fadhillah's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fadhillahrmdhn&theme=tokyo-night)](https://github.com/fadhillahrmdhn)
+
 ---
 
 <h3>Where to find me</h3>
