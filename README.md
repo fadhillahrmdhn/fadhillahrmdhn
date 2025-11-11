@@ -49,13 +49,16 @@ I'm an Informatics Engineering graduate with a strong interest in software devel
   <a href="https://www.linkedin.com/in/fadhillah-ramadhan-aa208521a/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  
   <a href="https://www.instagram.com/fadhillahrmdhn/" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  
   <a href="mailto:fadhillahrmdhn2001@gmail.com" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+<a href="https://fadhillahrmdhn.vercel.app" target="_blank">
+  <img alt="Website" src="https://img.shields.io/badge/Website-00BFA6?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
 </p>
+
 
